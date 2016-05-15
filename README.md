@@ -23,7 +23,7 @@ Abrir un Issue en la plataforma de Github.
 4. Manejo de paquetes.
 5. Protocolos básicos de conexión.
 6. Manejo de interfaces de red.
-7. Scripting en Bash.
+7. Scripting en Shell.
 8. Virtualización
 
 ## Criterios de evaluación
